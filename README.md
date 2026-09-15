@@ -49,10 +49,10 @@ This project analyzes farm-level agricultural data to understand how performance
 | File | Description |
 |------|-------------|
 | `Seasonal_Agriculture_Performance_Data_Analytics.ipynb` | Full analysis notebook |
-| `seasonal_agriculture_performance_dataset.csv` | Source dataset |
+| `DATASET.csv` | Source dataset |
 | `Major_Project_Seasonal_Agriculture_Performance_Analysis.pdf` | Project brief |
-| `VANSH KHOTYAN TEERTHANKER MAHAVEER UNIVERSIY.pptx` | Presentation summary |
+| `Tushar_STU6a6a3132c25111785344306.PPTX` | Presentation summary |
 
 ## Author
 
-**Tushar** — Netaji Subhas University
+**Tushar** — Netaji Subhas University Of Technology
