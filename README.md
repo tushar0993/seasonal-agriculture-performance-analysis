@@ -8,7 +8,7 @@ This project analyzes farm-level agricultural data to understand how performance
 
 ## Dataset
 
-- **File:** `seasonal_agriculture_performance_dataset.csv`
+- **File:** `DATASET.csv`
 - **Records:** 4,000 farms
 - **Coverage:** 8 states (Andhra Pradesh, Maharashtra, Telangana, Karnataka, Gujarat, Tamil Nadu, Punjab, Madhya Pradesh), 8 crops (Wheat, Maize, Pulses, Rice, Cotton, Chilli, Groundnut, Sugarcane), 3 seasons
 - **Fields:** environmental conditions (rainfall, temperature, humidity, soil pH/moisture), farming inputs (fertilizer, pesticide, irrigation method, seed quality), and outcomes (yield, production, cost, revenue, profit, water usage/efficiency, disease-pest risk)
